@@ -1,5 +1,4 @@
-
-photoMania
+#photoMania
 photoMania is a SwiftUI project that generates random images on tapping a single click on a button.
 
 Features
